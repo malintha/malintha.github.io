@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: A brief portfolio of research projects led by me.
+nav: false
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Multi-Agent Reinforcement Learning, Networked Swarm, Multi-UAV Control]
 horizontal: false
 ---
 

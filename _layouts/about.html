@@ -43,33 +43,42 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
 
         <!-- Selected projects -->
-        <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">recent work</a></h2>
+        <!-- <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">Selected Research Projects</a></h2> -->
+        <h2><a href="#" style="color: inherit;">Selected Research Projects</a></h2>
+        <!-- Click <a href="{{ '/projects/' | relative_url }}" style="color: purple;" >here</a> for a full list of research projects. -->
+        <br>
         {%- include aam_cover.html %}
+        {%- include coco_cover.html %}
         {%- include mfa_cover.html %}
+        {%- include formation_cover.html %}
 
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+          
 
+          
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
+              <div class="contact-note" >
+                <b style='color:maroon'>{{ site.contact_note }}</b>
+                
+              </div>
               <div class="contact-icons">
                 {% include social.html %}
               </div>
 
-              <div class="contact-note" style="visibility: hidden;">
-                {{ site.contact_note }}
-              </div>
+
               
             </div>
           {%- endif %}

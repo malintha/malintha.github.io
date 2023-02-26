@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Graph Attention Multi-Agent eVTOL Fleet Autonomy 
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Multi-Agent Reinforcement Learning
 ---
 
 Every project has a beautiful feature showcase page.
