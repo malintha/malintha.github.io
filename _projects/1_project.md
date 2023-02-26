@@ -39,7 +39,6 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>

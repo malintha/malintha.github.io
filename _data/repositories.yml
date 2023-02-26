@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - malintha
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - malintha/multi_uav_simulator
+  - malintha/rosns3
+  - malintha/mean_field_flocking
+  - malintha/swarmsim
+  - malintha/potentials-path-planning
+  - malintha/rrt-ros
+  - malintha/engr-321

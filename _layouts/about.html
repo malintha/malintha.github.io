@@ -47,6 +47,13 @@ layout: default
             {%- include news.html %}
           {%- endif %}
 
+
+        <!-- Selected projects -->
+        <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">recent work</a></h2>
+        {%- include aam_cover.html %}
+        {%- include mfa_cover.html %}
+
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
