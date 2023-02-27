@@ -26,12 +26,10 @@ My research insterests include autonomous mobility, multi-agent systems and rein
 
 My research revolves around the question: <b>How can we coordinate connected, heterogeneous robot fleets to achieve group objectives in a scalable and a cooperative manner? </b>
 
-<br>
-<b>Cover image story:</b> A <i>Starling</i> murmuration over a lake, which incidently looked liked a giant bird. Starlings (among many other animals) can coordinate their flights in thousands strong swarms in harmoneous, cohesive motions; which I think characterizes an ideal <i>swarm</i>. Checkout the demo video <a href="https://www.youtube.com/watch?v=KVkNUKgViSg"> here</a>, where I aimed to replicate the flocking behaviour with drones. 
-<br>
-
 
 <!-- Refer to the  -->
+
+
 
 
 

@@ -1,6 +1,8 @@
 <h5><b>Real-Time Distributed Flocking Control</b></h5>
-<p>I propose the aerial swarm flocking as a probabilistic inference and solve it in a distributed manner using mean-field variational inference.
-    The inference procedure takes place in a distributed manner in each drone using its local observations to calculate the control actions. This allows achieving dynamically feasible real-time flocking control with convergence guarantees borrowed from graphical games.</p>
+<p><i>Murmurations </i> are one of the most beatiful natural phenomena in the world, and characterizes the <i>perfect swarm </i>. 
+    In this work I tried to recreate the flocking characteristics UAVs using a variational inference approach in a distributed manner.
+    The drones only uses their local observations to infer the control actions from feasible set; which makes this approach unique compared to the literature which we can guarantee the covergence and the dynamical feasibility. 
+    <br><b>Checkout the full demo on <a href="https://www.youtube.com/watch?v=KVkNUKgViSg">Youtube </a>. </b></p> 
     <div class="row justify-content-sm-center">
         <div class="col-sm-6 mt-3 mt-md-0">
             {% include figure.html path="assets/img/flock_3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
