@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-<b><center>Hello! - <a href='https://www.youtube.com/watch?v=ovzhP9EP3qc'> ආයුබෝවන්! - Āyubōvan!</a></center></b>
+<b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b>
 <br>
 I am a PhD student working in multi-robot systems. My research revolves around the question: <b>How can we coordinate connected, heterogeneous robot <i>fleets</i> to achieve group objectives in a scalable and a cooperative manner? </b>
 I work at the intersection of autonomous mobility, unmanned aerial vehicles, multi-agent systems, reinforcement learning, and probabilistic graphical models. The applications of my research include advanced air mobility, mobile wireless networks, robot formation control, etc.
