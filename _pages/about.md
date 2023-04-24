@@ -20,12 +20,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-<b><center>Hello! - ආයුබෝවන්! - <a href='https://www.yourdictionary.com/ayubowan'>Āyubōvan!</a></center></b>
+<b><center>Hello! - <a href='https://www.youtube.com/watch?v=ovzhP9EP3qc'> ආයුබෝවන්! - Āyubōvan!</a></center></b>
 <br>
-I am a PhD student working in multi-robot systems. My research seeks answer to the question: <b>How can we coordinate connected, heterogeneous robot <i>fleets</i> to achieve group objectives in a scalable and a cooperative manner? </b>
-I look through the periscope of autonomous mobility, multi-agent systems, unmanned aerial vehicles and reinforcement learning. The applications of my research include, (but not limited to) advanced air mobility, mobile wireless networks, robot formation control, etc.
-
-
+I am a PhD student working in multi-robot systems. My research revolves around the question: <b>How can we coordinate connected, heterogeneous robot <i>fleets</i> to achieve group objectives in a scalable and a cooperative manner? </b>
+I work at the intersection of autonomous mobility, unmanned aerial vehicles, multi-agent systems, reinforcement learning, and probabilistic graphical models. The applications of my research include advanced air mobility, mobile wireless networks, robot formation control, etc.
 
 
 <!-- Refer to the  -->
