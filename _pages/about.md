@@ -22,8 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 <b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b>
 <br>
-I am a PhD student working in multi-robot systems. My research revolves around the question: <b>How can we coordinate connected, heterogeneous robot <i>fleets</i> to achieve group objectives in a scalable and a cooperative manner? </b>
-I work at the intersection of autonomous mobility, unmanned aerial vehicles, multi-agent systems, reinforcement learning, and probabilistic graphical models. The applications of my research include advanced air mobility, mobile wireless networks, robot formation control, etc.
+The interest on coordinating heterogeneous multi-robot systems are at an all time high thanks to the advances in autonomous mobility, and human-in-the-loop systems. There can be constellation of reasons contributing to the heterogeneity of the robots: 1) <b> physical traits </b> such as range, variety of capabilities, sensors; and 2) <b>self-interest </b> due to their ownership. My research revolves around the question: <b>How can we control such robot <i>fleets</i> to achieve group objectives despite their differences? </b>
+The applications of my research include autonomous mobility, human-swarm systems that can assist disaster-rescue and first-responder teams.
 
 
 <!-- Refer to the  -->
