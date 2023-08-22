@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b>
 <br>
-The interest on collaborative multi-robot systems are at an all time high thanks to the advances in autonomous mobility, and human-in-the-loop systems. A constellation of reasons may contribute to the heterogeneity of such systems: 1) <b> physical traits </b> such as range, variety of capabilities, sensors; and 2) <b>self-interest </b> due to their ownership. My research revolves around the question: <b>How can we control such diverse <i>systems</i> to achieve group objectives? </b>
+The interest on collaborative multi-robot systems are at an all time high thanks to the advances in autonomous mobility, and human-in-the-loop systems. A constellation of reasons may contribute to the heterogeneity of such systems: 1) <b> physical traits </b> such as range, variety of capabilities, sensors; and 2) <b>self-interest </b> due to their ownership. My research revolves around the question: <b>How can we control such diverse <i>systems</i> to achieve group objectives under stochastic observations and communication? </b>
 <!-- The applications of my research include autonomous mobility, human-swarm systems that can assist disaster-rescue and first-responder teams. -->
 
 
