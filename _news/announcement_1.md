@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-21 15:59:00-0400
+date: 2023-11-13 15:59:00-0400
 inline: true
 ---
 
-A new preprint is out. I discuss the coordination of an eVTOL fleet in an AAM environment through the lens of partially observable stochastic games (POSG).  A novel heterogeneous graph attention encoder-decoder is proposed for solving the POSG with multi-agent reinforcement learning [<a href='https://arxiv.org/pdf/2302.07337.pdf'>Preprint</a>]
+Successfully defended my Ph.D. dissertation titled "Cooperative Multi-Agent Autonomy Under Communication Uncertainties for Aerial Robot Fleets".  

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-15 07:59:00-0400
+date: 2023-10-13 07:59:00-0400
 inline: true
 ---
 
-I gave an invited talk on graphical game-theoretic swarm control at University of Sydney.
+Gave an invited talk at the University of Cambridge, UK. Thanks for inviting me, Prof. Amanda Prorok.

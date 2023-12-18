@@ -9,21 +9,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Indiana University, Bloomington
-      year: 2023 (Expecting)
+      year: 2023
       description:
         - Major - Intelligent Systems Engineering
         - Minor - Mathematics
-        - Thesis - "Toward Scalable, Cooperative Autonomy for UAV Fleets"
+        - Thesis - "Cooperative Multi-Agent Autonomy Under Communication Uncertainties for Aerial Robot Fleets"
           # contents:
           #   - Sub-description 1.
           #   - Sub-description 2.
-    - title: MS
+    - title: M.S.
       institution: Indiana University, Bloomington
       year: 2021
 
-    - title: BSc
+    - title: B.Sc (Hons.)
       institution: University of Moratuwa, Sri Lanka
       year: 2015
 
@@ -31,6 +31,11 @@
 - title: Experience
   type: time_table
   contents:
+
+    - title: Visiting Faculty
+      institution: Intelligent Systems Engineering
+      year: 2023-Now
+
     - title: Intern
       institution: Open Robotics
       year: 2019
