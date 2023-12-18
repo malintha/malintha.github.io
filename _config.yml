@@ -241,7 +241,7 @@ jekyll-archives:
     year: archive-year
     tag: archive-tag
     category: archive-category
-  permalinks:f
+  permalinks:
     year: '/blog/:year/'
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
