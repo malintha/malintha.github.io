@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Visiting Faculty | Machine Learning, Robotics </b> <br>  Indiana University, Bloomington
+subtitle: <b>Visiting Lecturer | Machine Learning, Robotics </b> <br>  Indiana University, Bloomington
 
 profile:
   align: right
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 <b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b>
 <br>
-I am currently a full-time visiting faculty with the department of Intelligent Systems Engineering of Indiana University. I teach the <b>Machine Learning for Signal Processing (ENGR-E511)</b> class in this Spring. My research focuses on designing decentralized autonomy for <b>intereacting dynamical systems <i>or systems of systems</i> to act as a <i>cohesive</i> under stochastic observations and communication. </b> 
+I am currently a full-time visiting lecturer with the department of Intelligent Systems Engineering of Indiana University. I teach the <b>Machine Learning for Signal Processing (ENGR-E511)</b> class in this Spring. My research focuses on designing decentralized autonomy for <b>intereacting dynamical systems <i>or systems of systems</i> to act as a <i>cohesive</i> under stochastic observations and communication. </b> 
 <!-- The applications of my research include autonomous mobility, human-swarm systems that can assist disaster-rescue and first-responder teams. -->
 
 
