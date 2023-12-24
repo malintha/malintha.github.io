@@ -6,7 +6,7 @@ subtitle: <b>Visiting Lecturer | Machine Learning, Robotics </b> <br>  Indiana U
 
 profile:
   align: right
-  image: malintha.jpg
+  image: Malintha-Fernando.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
