@@ -6,9 +6,9 @@ title: Malintha Fernando # the website title (if blank, full name will be used i
 first_name: Malintha
 # middle_name: R.
 last_name: Fernando
-email: malintha@ieee.org
+email: malinf@iu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Visiting Lecturer | Robotics | Machine Learning
+  Postdoctoral Fellow | Robotics | Reinforcement Learning
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -168,8 +168,8 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_scrollable: alse # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 6 # leave blank to include all the news in the `_news` folder
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
