@@ -24,14 +24,13 @@ social: true  # includes social icons at the bottom of the page
 <!-- <br> -->
 I will join the KTH Royal Institute of Technology this fall as a <a href='https://www.digitalfutures.kth.se/'> Digital Futures Postdoctoral Research Fellow </a> to continue my research in designing multi-objective reinforcement learning strategies for robotics teams. I will be working in between the <a href='https://www.kth.se/math/naost/optsys'> division of optimization and systems theory </a> in the department of Mathematics, and the <a href='https://www.kth.se/is/rpl'> division of robotics, perception and learning </a> in the department of Intelligent Systems.
 
-Before joining KTH, I briefly worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University where I taught the Machine Learning for Signal Processing (ENGR-E511/CSCI-B590) in the Spring '24. I obtained my PhD in Intelligent Systems Engineering in Fall '23 from IU.
+Before joining KTH, I briefly worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University where I taught Machine Learning for Signal Processing (ENGR-E511/CSCI-B590). 
+<!-- I obtained my PhD in Intelligent Systems Engineering in Fall '23 from IU. -->
 
 <!-- The applications of my research include autonomous mobility, human-swarm systems that can assist disaster-rescue and first-responder teams. -->
 
 
 <!-- Refer to the  -->
-
-
 
 
 
