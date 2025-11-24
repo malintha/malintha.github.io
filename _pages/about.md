@@ -22,7 +22,10 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- <b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b> -->
 <!-- <br> -->
-I am a researcher interested in multi-agent systems, aerial swarms and reinforcement learning.  I will join the KTH Royal Institute of Technology this fall as a <a href='https://www.digitalfutures.kth.se/'> Digital Futures Postdoctoral Fellow </a> to continue my research in designing multi-objective reinforcement learning strategies for robotics teams. I will be working in between the <a href='https://www.kth.se/math/naost/optsys'> division of optimization and systems theory </a> in the department of Mathematics, and the <a href='https://www.kth.se/is/rpl'> division of robotics, perception and learning </a> in the department of Intelligent Systems.
+I am a <a href='https://www.digitalfutures.kth.se/'> Digital Futures </a> Postdoctoral Fellow with the department of Mathematics at KTH Royal Institute of Technlogy, Sweden. My research lies at the intersection of multi-agent systems, game theory and reinforcement learning.
+More specifically, I study (1) how self-interested agents will behave under energy constraints on various graph-based environments, (2) how can we amend the Prize-of-Anarchy (PoA) caused by the self-interested behavior?
+
+I am advised by Prof. Silun Zhang, and Prof. Petter Ögren.
 
 Before joining KTH, I worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University". 
 <!-- I obtained my PhD in Intelligent Systems Engineering in Fall '23 from IU. -->
