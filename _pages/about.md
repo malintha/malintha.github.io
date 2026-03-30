@@ -29,7 +29,7 @@ My current research revolves around the following questions: <b>(1) how can we e
 <b>Answering these questions will enable autonomous fleet managers make optimal, sequential, decisions in a distributed manner under both competitive, and cooperative settings. I.e., given the observations about the competitors, and the own fleet, which depot should each vehicle cover? </b>
 
 <b>
-From a policy-making perspective it will allow predicting which areas will be underserved by the service providers. How much should we tax/incentivize the providers for fairer service distribution? </b>
+From a policy-making perspective it will allow predicting which areas will be underserved by the service providers in pursuit of profit. How much should we tax/incentivize the providers for fairer service distribution? </b>
 
 My current research is a natual extension of my Ph.D., in which I researched coordinating drone swarms for parcel delivery, formation control, under partial observations. I am advised by Prof. Silun Zhang (KTH Mathematics), and Prof. Petter Ögren (EECS). Before joining KTH, I worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University where I obtained my Ph.D. 
 
