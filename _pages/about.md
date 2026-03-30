@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Digital Futures Postdoctoral Fellow </b> <br>  KTH Royal Institute of Technology, Sweden
+subtitle: <b>Postdoctoral Researcher </b> <br>  KTH Royal Institute of Technology, Sweden
 
 profile:
   align: right
@@ -26,7 +26,7 @@ I am a <a href='https://www.digitalfutures.kth.se/'> Digital Futures </a> Postdo
 
 My current research revolves around the following questions: <b>(1) how can we effciently learn distributed RL policies to make decisions, under limited budget and profit stochasticity in routing settings (i.e., vehicle routing, prize-collection), </b> and (2) <b> How can we leverage tools from game theory to handle situations involving competing interests? </b> (3) <b> How can we best allocate profits among competing parties to improve the social-optimality </b> (get as clost to the optimal solution, i.e, minimize the prize-of-anarchy?) 
 
-<b>Answering these questions will enable autonomous fleet managers make optimal, sequential, decisions in a distributed manner under both competitive, and cooperative settings. I.e., given the observations about the competitors, and the own fleet, which depot should each vehicle cover? </b>
+<b>Answering these questions will enable autonomous fleet managers make optimal, sequential, decisions in a distributed manner under both competitive, and cooperative settings. E.g., given the observations about the competitors, and the own fleet, which depot should each vehicle cover? </b>
 
 <b>
 From a policy-making perspective it will allow predicting which areas will be underserved by the service providers in pursuit of profit. How much should we tax/incentivize the providers for fairer service distribution? </b>
