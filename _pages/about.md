@@ -31,6 +31,6 @@ My current research revolves around the following questions: <b>(1) how can we e
 <b>
 From a policy-making perspective it will allow predicting which areas will be underserved by the service providers in pursuit of profit. How much should we tax/incentivize the providers for fairer service distribution? </b>
 
-My current research is a natual extension of my Ph.D., in which I researched coordinating drone swarms for parcel delivery, formation control, under partial observations. I am advised by Prof. Silun Zhang (KTH Mathematics), and Prof. Petter Ögren (EECS). Before joining KTH, I worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University where I obtained my Ph.D. 
+My current research is a natual extension of my Ph.D., in which I researched coordinating drone swarms for parcel delivery, formation control, under partial observations. I am advised by Prof. Silun Zhang (KTH Mathematics), and Prof. Petter Ögren (EECS). Before joining KTH, I briefly worked as a machine learning lecturer at Indiana University, Bloomington, USA, where I obtained my Ph.D. 
 
 <b><i>I am currently in the job market, I am open for both academic and industry positions in deep learning, decision-making, autonomous systems. Shoot me a mail, if you think I am a fit. </i> </b>
