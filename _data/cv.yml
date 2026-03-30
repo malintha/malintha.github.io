@@ -6,7 +6,7 @@
     # - name: Languages
       # value: English, Sinhalese
     - name: Contact
-      value: malinf-at-iu.edu
+      value: malintha-at-kth.se
 
 - title: Education
   type: time_table
@@ -33,51 +33,28 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: KTH Royal Institute of Technology (Dept. Mathematics, Division of Optimization, Systems)
+      year: Sep., 2024  - Sep., 2026
 
     - title: Visiting Lecturer (Fulltime)
-      institution: Intelligent Systems Engineering
-      year: 2023-Now
+      institution: Machine Learning for Signal Processing
+      year: Jan. 2024 - Jun., 2024
 
     - title: Intern
       institution: Open Robotics
       year: 2019
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+
     - title: Software Engineer
       institution: WSO<sub>2</sub>
       year: 2016-2017
-
-    - title: Intern
-      institution: WSO<sub>2</sub>
-      year: 2015
-            # description:
-      #   - Description 1.
-      #   - Description 2.
-
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
-
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
-
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/malintha/multi_uav_simulator">MavSwarm</a>
       year: 2020-now
-      description: A Lightweight Multi-Aerial Vehicle Simulator.
+      description: A lightweight drone swarm simulator with trajectory optimization and control (150+ stars).
 
     - title: <a href="https://github.com/malintha/rosns3">ROSNS3</a>
       year: 2022-now
@@ -87,37 +64,20 @@
       year: 2017-now
       description: Open Source Committer
 
-    - title: <a href="#">Mozilla</a>
-      year: 2014-2015
-      description: Contributed to Mozilla Firefox, Thunderbird, and Lightning frameworks.
+    # - title: <a href="#">Mozilla</a>
+    #   year: 2014-2015
+    #   description: Contributed to Mozilla Firefox, Thunderbird, and Lightning frameworks.
 
-    - title: <a href="https://blog.mozilla.org/calendar/tag/gsoc/page/2/">Google Summer of Code</a>
-      year: 2014
-      description: Contributed Thunderbird and Lightning frameworks.
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+    # - title: <a href="https://blog.mozilla.org/calendar/tag/gsoc/page/2/">Google Summer of Code</a>
+    #   year: 2014
+    #   description: Contributed Thunderbird and Lightning frameworks.
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Digital Futures Postdoctoral Felloship 
+    - year: 2025
+      items: 
+        - Swedish Royal Academy of Sciences (Mathematics) Scholarship 
