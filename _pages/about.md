@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 <!-- <b><center>Hello! - <abbr title='May you be blessed with a long life'><a href='https://rediscoversrilanka.com/ayubowan/'> ආයුබෝවන්! - Āyubōvan!</a></abbr></center></b> -->
 <!-- <br> -->
 I am a <a href='https://www.digitalfutures.kth.se/'> Digital Futures </a> Postdoctoral Fellow with the department of Mathematics at KTH Royal Institute of Technlogy, Sweden. My research lies at the intersection of multi-agent systems, game theory and reinforcement learning.
-Specifically, my research revolves around two questions: <b>(1) how can we effciently learn RL policies to make decisions, under limited budget and profit stochasticity in routing settings (i.e., vehicle routing, prize-collection), </b> and (2) <b> How can we leverage tools from game theory to handle situations involving competing interests? </b> (3) <b> How can we best allocate profits among competing parties to improve the social-optimality </b> (get as clost to the optimal solution, i.e, minimize the prize-of-anarchy?) 
+Specifically, my research revolves around two questions: <b>(1) how can we effciently learn distributed RL policies to make decisions, under limited budget and profit stochasticity in routing settings (i.e., vehicle routing, prize-collection), </b> and (2) <b> How can we leverage tools from game theory to handle situations involving competing interests? </b> (3) <b> How can we best allocate profits among competing parties to improve the social-optimality </b> (get as clost to the optimal solution, i.e, minimize the prize-of-anarchy?) 
 
 <b>Answering these questions will enable autonomous fleet managers make optimal, sequential, decisions in a distributed manner under both competitive, and cooperative settings. I.e., given the observations about the competitors, and the own fleet, which depot should each vehicle cover? </b>
 
@@ -35,3 +35,5 @@ This work stems as a natual extension of my Ph.D., in which I researched in coor
 I am advised by Prof. Silun Zhang (KTH Mathematics), and Prof. Petter Ögren (EECS).
 
 Before joining KTH, I worked as a lecturer at the department of Intelligent Systems Engineering of Indiana University where I obtained my Ph.D. 
+
+<b><i>I am currently in the job market, I am open for both academic and industry positions in deep learning, decision-making, autonomous systems. Shoot me a mail, if you think I am a fit. </i> </b>
