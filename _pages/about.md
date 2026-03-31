@@ -33,4 +33,4 @@ From a policy-making perspective it will allow predicting which areas will be un
 
 My current research is a natual extension of my Ph.D., in which I researched coordinating drone swarms for parcel delivery, formation control, under partial observations. I am advised by Prof. Silun Zhang (KTH Mathematics), and Prof. Petter Ögren (EECS). Before joining KTH, I briefly worked as a machine learning lecturer at Indiana University, Bloomington, USA, where I obtained my Ph.D. 
 
-<b><i>I am currently in the job market, I am open for both academic and industry positions in deep learning, decision-making, autonomous systems. Shoot me a mail, if you think I am a fit. </i> </b>
+<b><i>I am currently in the job market. I am open for both academic and industry positions in deep learning, decision-making, autonomous systems in Sweden. Shoot me a mail, if you think I am a fit. </i> </b>
