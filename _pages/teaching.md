@@ -6,14 +6,19 @@ description:
 nav: true
 nav_order: 5
 ---
+##### Autumn 2025 (KTH Royal Institute of Technology)
 
-##### Spring 2024
+###### **Teaching Assistant for "Analytiska och numeriska metoder för differentialekvationer"**
+**(Analytical and Numerical Methods for Differential Equations)**
+Lecturers: Kristian Bjerklöv, Luciano Triguero Pérez
 
-###### **Machine Learning for Signal Processing (ENGR-E 511, CSCI-B 590)**
+##### Spring 2024 (Indiana University)
+
+###### **Lecturer for Machine Learning for Signal Processing (ENGR-E 511, CSCI-B 590)**
 
 This course focuses on the mathematical foundations of machine learning with applications-oriented assignments in signal processing. 
 
-Topics discussed:
+Topics:
 
 - Machine learning topics
     - Probability Theory (Binomial, Multinomail, Normal, Poisson distributions, MLE, Bayes)
